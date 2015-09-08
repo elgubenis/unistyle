@@ -59,7 +59,7 @@ import {padding, dark} from './vars';
 
 export default {
   '.btn': {
-    padding,
+    padding: padding,
     border: `1px solid ${dark}`
   }
 };
